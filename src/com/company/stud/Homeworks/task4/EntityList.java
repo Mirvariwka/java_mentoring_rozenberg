@@ -8,7 +8,7 @@ public class EntityList {
     Entity en3 = new Entity("Marfa");
     Entity en4 = new Entity("Klava");
     Entity en5 = new Entity("Oliviya);
-            ArrayList < String > hdhh = new ArrayList<>();
+            ArrayList <Entity> hdhh = new ArrayList<>();
 
 
 }
