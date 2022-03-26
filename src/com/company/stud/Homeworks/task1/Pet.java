@@ -1,4 +1,4 @@
-package com.company.stud.Homeworks;
+package com.company.stud.Homeworks.task1;
 
 public enum Pet {
     KITTY("kitty meowing cute"), DOGGY("doggy barking and jumping"), FISH("fish swims in a circe");

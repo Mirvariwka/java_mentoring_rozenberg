@@ -1,6 +1,6 @@
-package com.company.stud.Homeworks;
+package com.company.stud.Homeworks.task1;
 
-import static com.company.stud.Homeworks.Pet.*;
+import static com.company.stud.Homeworks.task1.Pet.*;
 
 public class Human {
     public Pet pet;
