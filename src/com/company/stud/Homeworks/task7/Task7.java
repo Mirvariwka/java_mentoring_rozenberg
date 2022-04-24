@@ -10,7 +10,7 @@ public class Task7 {
  Чтобы получить массив символов из строки, используйте str.toCharArray().
   */
 
-    public class TaskSeven {
+    /*public class TaskSeven {
 
         public static void main(String[] args) {
 
@@ -31,5 +31,5 @@ public class Task7 {
             map.forEach((k, v) -> System.out.printf("[%s] : %d\n", k, v));
 
         }
-    }
+    }*/
 }

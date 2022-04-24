@@ -4,8 +4,8 @@ import java.util.List;
 import java.util.ArrayList;
 /*Есть список строк. Создать одну строку, состоящую из элементов списка,
  длина которых менее 5 символов, через пробел, и вывести ее на консоль. (использовать List<String>, StringBuilder)
- */
-        Пример: список строк {“aaa”, “bbb”, “qwerty”, “”, “.”,”abcde”,“ccc”} => Вывод: “aaa bbb  . ccc”
+
+        Пример: список строк {“aaa”, “bbb”, “qwerty”, “”, “.”,”abcde”,“ccc”} => Вывод: “aaa bbb  . ccc”*/
 
 public class ListPerson {
     public static void main(String[] args) {
